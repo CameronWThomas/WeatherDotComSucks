@@ -55,14 +55,15 @@ code {
 }
 
 .site-contents{
-  font-size: 2rem;
+  font-size: 1.5rem;
   overflow: auto;
   padding-bottom: 40px;
   text-align: center;
 }
 .site-header{
   font-family: "Cloister", Helvetica, Arial;
-  font-size: 8rem;
+  font-size: 4rem;
+  font-weight: 500;
   -webkit-user-select: none; /* Safari */        
   -moz-user-select: none; /* Firefox */
   -ms-user-select: none; /* IE10+/Edge */
@@ -70,4 +71,14 @@ code {
   /*margin-top: 60px;*/
   margin: 0px;
   padding: 40px 0px;
+}
+
+.zip-input{
+  
+  padding-top: 1.5rem;
+}
+
+.forecast{
+  padding-top: 1.5rem;
+  font-size: 1.3rem;
 }
